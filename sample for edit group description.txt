@@ -1,0 +1,12 @@
+姓名#帳號#UNC路徑(此欄亦為群組描述)#本機位置#權限#密碼#群組#備註
+null#null#mygp1#null#唯讀#null#gp1#null
+null#null#mygp3#null#寫入#null#gp3#null
+null#null#mygp1#null#修改(可重新命名、刪除檔案)#null#gp1#null
+null#null#mygp3#null#寫入#null#gp3#null
+null#null#mygp2#null#寫入#null#gp2#null
+null#null#mygp1#null#唯讀#null#gp1#null
+null#null#mygp2#null#唯讀#null#gp2#null
+null#null#mygp2#null#修改(可重新命名、刪除檔案)#null#gp2#null
+null#null#mygp3#null#修改(可重新命名、刪除檔案)#null#gp3#null
+null#null#mygp3#null#寫入#null#gp3#null
+

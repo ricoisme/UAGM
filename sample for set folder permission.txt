@@ -1,0 +1,11 @@
+姓名#帳號#UNC路徑(此欄亦為群組描述)#本機位置#權限#密碼#群組#備註
+王小明#a0#//192.168.11.2/test1#G:\test1#唯讀#null#null#null
+王一#a1#//192.168.11.2/test2#E:\test2#寫入#null##
+王貳#a2#//192.168.11.2/test2#E:\test2#修改(可重新命名、刪除檔案)#null#null#null
+王三#a3#//192.168.11.2/test1#G:\test1#寫入#null#null#null
+王五#a5#//192.168.11.2/test3#G:\test3#寫入#null#null#null
+王七#a7#//192.168.11.2/test3#G:\test3#唯讀#null#null#null
+大一#b1#//192.168.11.2/test1#G:\test1#唯讀#null#null#null
+大二#b2#//192.168.11.2/test2#E:\test2#修改(可重新命名、刪除檔案)#null#null#null
+大三#b3#//192.168.11.2/test3#G:\test3#修改(可重新命名、刪除檔案)#null#null#null
+大五#b5#//192.168.11.2/test1#G:\test1#寫入#null##
